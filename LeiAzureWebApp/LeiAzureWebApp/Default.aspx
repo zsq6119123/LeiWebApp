@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    Hello World! Shanghai Cancer Hospital, This is Azure Web App
+    Greeting from Lei Zhang
 
     <br />
     <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
