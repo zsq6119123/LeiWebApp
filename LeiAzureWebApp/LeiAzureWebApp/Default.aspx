@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    Hello World! BesTV, This is Azure Web App
+    Hello World! , This is Azure Web App
 
     <br />
     <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
