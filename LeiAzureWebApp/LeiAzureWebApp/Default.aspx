@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    Greeting from MSFT Lei Zhang
+     Hello San Sheng！
 
     <br />
     <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
